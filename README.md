@@ -1,2 +1,2 @@
-# starMatch
-Star Match game built using React
+# Star Match game built using React
+
